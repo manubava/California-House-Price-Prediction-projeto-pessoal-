@@ -1,3 +1,5 @@
+![Descrição da Imagem](houses.jpg)
+
 **Projeto pessoal: Predição de Preços de Imóveis - California Housing**
 
 **Descrição do Projeto:**
@@ -44,16 +46,16 @@ Observou-se que o modelo de regressão linear obteve um R² de 0.5213, indicando
 A seguir, são apresentados os gráficos de dispersão que comparam os valores reais do conjunto de teste com as previsões feitas pelos modelos de regressão linear e floresta aleatória.
 
 1. Gráfico de Dispersão - Comparação entre Valor Real e Previsões (Regressão Linear):
-![Comparação entre Valor Real e Previsões (Regressão Linear)](caminho/para/grafico_regressao_linear.png)
+![Comparação entre Valor Real e Previsões (Regressão Linear)](comparacao_valor_real_previsoes_reg_linear.png)
 
 2. Gráfico de Dispersão - Comparação entre Valor Real e Previsões (Floresta Aleatória):
-![Comparação entre Valor Real e Previsões (Floresta Aleatória)](caminho/para/grafico_floresta_aleatoria.png)
+![Comparação entre Valor Real e Previsões (Floresta Aleatória)](comparacao_valor_real_previsoes_forest.png)
 
 3. Gráfico de Barras - Comparação entre Valor Real e Previsão Média (Regressão Linear):
-![Comparação entre Valor Real e Previsão Média (Regressão Linear)](caminho/para/grafico_media_regressao_linear.png)
+![Comparação entre Valor Real e Previsão Média (Regressão Linear)](comparacao_valor_real_previsoes_reg_linear_barra.png)
 
 4. Gráfico de Barras - Comparação entre Valor Real e Previsão Média (Floresta Aleatória):
-![Comparação entre Valor Real e Previsão Média (Floresta Aleatória)](caminho/para/grafico_media_floresta_aleatoria.png)
+![Comparação entre Valor Real e Previsão Média (Floresta Aleatória)](comparacao_valor_real_previsoes_forest_barra.png)
 
 **Conclusão:**
 Com base nos resultados obtidos, o modelo de regressão linear apresentou um melhor desempenho em relação aos modelos de floresta aleatória nos dados de teste originais. Entretanto, os resultados negativos de R² para os modelos de floresta aleatória sugerem que ambos os modelos podem ser aprimorados através de mais experimentação com seleção de características, ajuste de hiperparâmetros e outras técnicas de pré-processamento.
