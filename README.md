@@ -1,4 +1,4 @@
-![Descrição da Imagem](houses.jpg)
+![Descrição da Imagem](houses2.jpg)
 
 **Projeto pessoal: Predição de Preços de Imóveis - California Housing**
 
