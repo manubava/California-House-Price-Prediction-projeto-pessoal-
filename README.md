@@ -1,6 +1,6 @@
 ![Descrição da Imagem](houses2.jpg)
 
-# Projeto pessoal: Predição de Preços de Imóveis - California Housing
+### Projeto pessoal: Predição de Preços de Imóveis - California Housing
 
 **Descrição do Projeto:**
 Este projeto tem como objetivo construir modelos de machine learning para prever os preços de imóveis na Califórnia, utilizando dados do conjunto de dados "California Housing". Serão explorados dois modelos: regressão linear e regressão de floresta aleatória. Além disso, será realizada a busca de hiperparâmetros usando GridSearchCV para otimizar o modelo de floresta aleatória.
